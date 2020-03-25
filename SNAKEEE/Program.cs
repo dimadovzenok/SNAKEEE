@@ -6,7 +6,7 @@ using System.Threading;
 
 
 
-namespace Snake
+namespace SNAKEEE
 {
 	class Program
 	{
