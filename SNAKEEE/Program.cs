@@ -58,7 +58,7 @@ namespace SNAKEEE
 			WriteText("============================", xOffset, yOffset++);
 			WriteText("ИГРА  ОКОНЧЕНА", xOffset + 1, yOffset++);
 			yOffset++;
-			WriteText("Автор: Дима Довженок", xOffset + 2, yOffset++);
+			WriteText("Автор: Дима ДовженокАвтор: Дима Довженок", xOffset + 2, yOffset++);
 			WriteText("============================", xOffset, yOffset++);
 		}
 		static void WriteText(String text, int xOffset, int yOffset)
